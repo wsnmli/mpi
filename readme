@@ -1,0 +1,5 @@
+#pre reqs
+sudo apt install openmpi-bin
+
+#install
+mpicc hello.c
