@@ -1,5 +1,5 @@
 #pre reqs
-sudo apt install openmpi-bin install libopenmpi-dev gcc gfrotran
+sudo apt install openmpi-bin libopenmpi-dev gcc g++ gfrotran
 
 #install
 mpicc hello.c
